@@ -39,7 +39,11 @@ Les liens de dépôt (via PigeonFiles) pour rendre vos notebooks seront ajoutés
 
 ## Projet
 
-Les informations détaillées concernant le projet seront publiées à l'issue de la deuxième séance de TP. Vous disposerez d'environ trois semaines pour le réaliser. Les modalités de regroupement et les dates de soutenance seront annoncées ultérieurement.
+Les informations détaillées concernant le projet sont désormais disponibles dans le fichier [PROJECT.md](PROJECT.md).
+
+Le projet peut être démarré après la deuxième séance de TP, une fois que toutes les connaissances nécessaires auront été abordées.
+
+La date de soutenance est actuellement fixée au **20/02/2026**, mais celle-ci est susceptible d'être modifiée. De plus amples informations vous seront communiquées ultérieurement.
 
 ### Politique Anti-Plagiat
 

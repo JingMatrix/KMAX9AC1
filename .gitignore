@@ -1,5 +1,8 @@
 landscapes
-saved_models
+saved_*
+Latex
+data_split
+project.py
 imagenette2
 *.aria2
 *.tgz
