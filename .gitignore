@@ -1,4 +1,8 @@
-test*.png
+saved_models
+imagenette2
+*.aria2
+*.tgz
+*.png
 *.gif
 *MAPI3_sol.ipynb
 TP*.py
