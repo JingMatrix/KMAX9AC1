@@ -1,7 +1,9 @@
+landscapes
 saved_models
 imagenette2
 *.aria2
 *.tgz
+*.zip
 *.png
 *.gif
 *MAPI3_sol.ipynb
