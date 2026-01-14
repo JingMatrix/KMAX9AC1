@@ -21,7 +21,7 @@ Le calendrier complet des cours est disponible sur l'emploi du temps de l'univer
 | 2   | 21/01/2026 13:30 - 16:30     | 25/01/2026         | *À venir*         |
 | 3   | 30/01/2026 09:00 - 12:00     | 03/02/2026         | *À venir*         |
 
-### Groupe A22
+### Groupe A12
 
 | TP  | Date et Heure                | Date de Rendu      | Lien de Rendu     |
 | --- | ---------------------------- | ------------------ | ----------------- |
@@ -39,7 +39,7 @@ Les liens de dépôt (via PigeonFiles) pour rendre vos notebooks seront ajoutés
 
 ## Projet
 
-Les informations détaillées concernant le projet sont désormais disponibles dans le fichier [PROJECT.md](PROJECT.md).
+Les informations détaillées concernant le projet est dans le fichier [PROJECT.md](PROJECT.md) et [EVALUATION.md](EVALUATION.md).
 
 Le projet peut être démarré après la deuxième séance de TP, une fois que toutes les connaissances nécessaires auront été abordées.
 
