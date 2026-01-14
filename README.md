@@ -11,6 +11,8 @@
 
 Ce cours comprend trois séances de travaux pratiques de trois heures chacune, réparties en deux groupes : A11 et A12.
 
+Chaque séance de TP est indépendante. La correction des questions critiques sera présentée pendant la session, et il vous restera une partie du travail à finaliser et à rendre de manière autonome.
+
 Le calendrier complet des cours est disponible sur l'emploi du temps de l'université via [ce lien](https://edt.univ-tlse3.fr/calendar/cal?vt=month&et=module&fid0=KMAX9AC1).
 
 ### Groupe A11
@@ -21,7 +23,7 @@ Le calendrier complet des cours est disponible sur l'emploi du temps de l'univer
 | 2   | 21/01/2026 13:30 - 16:30     | 25/01/2026         | *À venir*         |
 | 3   | 30/01/2026 09:00 - 12:00     | 03/02/2026         | *À venir*         |
 
-### Groupe A22
+### Groupe A12
 
 | TP  | Date et Heure                | Date de Rendu      | Lien de Rendu     |
 | --- | ---------------------------- | ------------------ | ----------------- |
@@ -34,16 +36,27 @@ Le calendrier complet des cours est disponible sur l'emploi du temps de l'univer
 Les liens de dépôt (via PigeonFiles) pour rendre vos notebooks seront ajoutés dans les tableaux ci-dessus. Ces liens expireront après la date limite de soumission.
 
 **Attention :**
+*   Le rendu des TPs est **strictement individuel**; le travail demandé n'est pas conçu pour être réalisé en groupe.
 *   Veuillez respecter scrupuleusement les dates de rendu.
 *   **Veuillez impérativement inclure votre NOM et Prénom dans le nom du fichier que vous soumettez.**
 
 ## Projet
 
-Les informations détaillées concernant le projet sont désormais disponibles dans le fichier [PROJECT.md](PROJECT.md).
+> Les alternants ne sons pas tenus de participer au projet. Cependant, le rendu des TPs reste bien sûr obligatoire.
+
+Les informations détaillées concernant le projet sont disponibles dans le fichier [PROJECT.md](PROJECT.md).
 
 Le projet peut être démarré après la deuxième séance de TP, une fois que toutes les connaissances nécessaires auront été abordées.
 
 La date de soutenance est actuellement fixée au **20/02/2026**, mais celle-ci est susceptible d'être modifiée. De plus amples informations vous seront communiquées ultérieurement.
+
+### Constitution des Groupes
+
+Pour le projet, vous êtes encouragés à former spontanément des groupes de 3 ou 4 étudiants. La composition de chaque groupe devra m'être communiquée par email avant le **24/01/2026**, date à laquelle les TP1 et TP2 auront été réalisés.
+
+### Barème de Notation
+
+Le barème de notation final n'est pas encore arrêté. À titre indicatif, la note finale pourrait être composée de 4 points pour le projet et 2 points pour chaque TP. Le coefficient final sera ajusté en fonction de la qualité de vos rendus.
 
 ### Politique Anti-Plagiat
 

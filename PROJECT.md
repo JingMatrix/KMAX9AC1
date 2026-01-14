@@ -10,7 +10,7 @@ Ce projet constitue la deuxième partie du projet BigData.
 
 Pour l'évaluation, vous devrez rendre un notebook python détaillé avec des commentaires justifiant les méthodes utilisées.
 
-Vous devrez aussi présenter vos résultats et les méthodes en 20 minutes lors de la **soutenance du 20/02/2026**.
+Vous devrez aussi présenter vos résultats et les méthodes en 15 minutes (+ 10 minutes de questions) lors de la **soutenance du 20/02/2026**.
 
 La performance de vos modèles ne sera pas utilisée comme critère d'évaluation. Nous nous intéresserons uniquement à la méthodologie utilisée, aux comparaisons et analyses produites, ainsi qu'à la variété d'expériences menées. Vous pouvez faire la présentation et le notebook en anglais si vous préférez.
 
