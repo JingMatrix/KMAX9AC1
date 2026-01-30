@@ -48,7 +48,7 @@ Les informations détaillées concernant le projet sont disponibles dans le fich
 
 Le projet peut être démarré après la deuxième séance de TP, une fois que toutes les connaissances nécessaires auront été abordées.
 
-La date de soutenance est actuellement fixée au **20/02/2026**, mais celle-ci est susceptible d'être modifiée. De plus amples informations vous seront communiquées ultérieurement.
+La date de soutenance est **20/02/2026**, voir [SOUTENANCE.md](SOUTENANCE.md) pour les détails.
 
 ### Constitution des Groupes
 
